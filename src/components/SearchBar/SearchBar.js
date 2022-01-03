@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import "./SearchBar.css";
 
@@ -25,7 +26,7 @@ class SearchBar extends React.Component {
           <input placeholder="Where?" />
         </div>
         <div className="SearchBar-submit">
-          // eslint-disable-next-line jsx-a11y/anchor-is-valid
+          {/* // eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a>Let's Go</a>
         </div>
       </div>
