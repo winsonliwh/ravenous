@@ -26,8 +26,19 @@ function App() {
                 Work on function b.0.0.1 but we found that function a is better solution.
                   Good idea on this story as function b.0.0.2
                     Updated function b.0.0.2.1
+                New more branch - Agent Function a
+                  New completed pages for Agent Function a
+                    After built function b, we found that Function a is a better solution but we need to upgrade function a to a.0.0.1
+                    Writing function a.0.0.1 to a.0.0.2
+                    Checked a.0.0.2 is perfect
+                    Pls consider to use a.0.0.2 instead of function b.
+                    Confirmed by Dev Manager
+                      later, a.0.0.2.1 is passed the QA test after a small changes
+                        We found that b.0.0.2.2. Added that in a.0.0.2.2
+                          Furthermore, a.0.0.2.2 has more things to add
+                            Add files(xyz) in a.0.0.2.2
+                              Since a.0.0.2.2 absorbed function b.0.0.2.1, pls do clear up for b.0.0.2.1
 
->>>>>>> Stashed changes
         </p>
         <a
           className="App-link"
