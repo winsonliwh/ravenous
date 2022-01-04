@@ -38,6 +38,8 @@ function App() {
                           Furthermore, a.0.0.2.2 has more things to add
                             Add files(xyz) in a.0.0.2.2
                               Since a.0.0.2.2 absorbed function b.0.0.2.1, pls do clear up for b.0.0.2.1
+                                New Status 2: clear up of b.0.0.2.2 completed. Here is a.0.0.2.3 (just clear up and no need to release)
+                                
 
         </p>
         <a
