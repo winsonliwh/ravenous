@@ -21,6 +21,8 @@ function App() {
                     Writing function a.0.0.1 to a.0.0.2
                     Checked a.0.0.2 is perfect
                     Pls consider to use a.0.0.2 instead of function b.
+                    Confirmed by Dev Manager
+                    
         </p>
         <a
           className="App-link"
