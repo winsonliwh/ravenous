@@ -10,12 +10,12 @@ function App() {
           Edit <code>src/App.js</code> and save to reload!!! Happy New Year 2021 Event!
           Created New Feature Branch
             with fixing New Year 2021 Event S099
-            >>>>>>>>>>
+            **********
               to
               Edit <code>src/App.js</code> and save to reload!!!
               because of New Year 2021 Event
                 Hot fixing New Year 2021 Event S099
-            >>>>>>>>> End of Hot fixing
+                ********** End of Hot fixing
           New Feature 1.1
             Feature1.1_AdminPages
             Feature1.1_UserPages
