@@ -9,6 +9,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           Created New Feature Branch
+          New Feature 1.1
+            Feature1.1_AdminPages
+            Feature1.1_UserPages
+            Feature1.1_OperatorPages
         </p>
         <a
           className="App-link"
