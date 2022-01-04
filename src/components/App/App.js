@@ -15,6 +15,9 @@ function App() {
             Feature1.1_OperatorPages
             New more branch - Agent Concept
               Added AgentPages
+                New more branch - Agent Function a
+                  New completed pages for Agent Function a
+                  
         </p>
         <a
           className="App-link"
