@@ -17,7 +17,7 @@ function App() {
               Added AgentPages
                 New more branch - Agent Function a
                   New completed pages for Agent Function a
-                  
+                    After built function b, we found that Function a is a better solution but we need to upgrade function a to a.0.0.1
         </p>
         <a
           className="App-link"
