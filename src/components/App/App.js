@@ -18,6 +18,9 @@ function App() {
                 New more branch - Agent Function a
                   New completed pages for Agent Function a
                     After built function b, we found that Function a is a better solution but we need to upgrade function a to a.0.0.1
+                    Writing function a.0.0.1 to a.0.0.2
+                    Checked a.0.0.2 is perfect
+                    Pls consider to use a.0.0.2 instead of function b.
         </p>
         <a
           className="App-link"
