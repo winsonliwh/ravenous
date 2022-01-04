@@ -16,6 +16,8 @@ function App() {
             New more branch - Agent Concept
               Added AgentPages
                 This is a checkout a new function b and this will replace function a based on AgentPages.
+                Work on function b.0.0.1 but we found that function a is better solution.
+
         </p>
         <a
           className="App-link"
