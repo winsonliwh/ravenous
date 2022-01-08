@@ -1,4 +1,4 @@
-//import logo from './logo.svg';
+// import logo from './logo.svg';
 import "./App.css";
 import BusinessList from "../BusinessList/BusinessList";
 import SearchBar from "../SearchBar/SearchBar";
@@ -6,12 +6,11 @@ import SearchBar from "../SearchBar/SearchBar";
 function App() {
   return (
     <div className="App">
-{/*
-# Below three line should be replaced below header tag before last div of className="App"
+{/*# Below three line should be replaced below header tag before last div of className="App"*/}
       <h1>ravenous</h1>
       <SearchBar />
       <BusinessList />
-*/}
+{/*
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         Changed the Login Module1.1.4 (Checked issue4. It is not the case)
@@ -60,6 +59,7 @@ function App() {
           Learn React
         </a>
       </header>
+      */}
     </div>
   );
 }
